@@ -1,6 +1,6 @@
 # (PART\*) Part I: Data exploration {-}
 
-# Getting started in R
+# Getting started in 
 
 In this very first lesson, you'll learn how to:  
 
